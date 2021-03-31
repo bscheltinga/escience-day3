@@ -1,2 +1,2 @@
-def print_temperature()
+def print_temperature():
     print(temperature)
